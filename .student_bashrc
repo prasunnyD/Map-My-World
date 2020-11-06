@@ -1,6 +1,8 @@
 ###DO NOT DELETE!
 # Changing python PATH. 
 export PATH=/usr/bin:$PATH
+source /opt/ros/kinetic/setup.bash
+alias ss="source devel/setup.bash"
 # Changing current directory
 cd /home/workspace/
 ###
