@@ -1,6 +1,6 @@
 # Map-My-World
 
-![](/pictures/mapping part1.png)
+![](/pictures/mapping1.png)
 
 
 
