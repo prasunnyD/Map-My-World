@@ -2,6 +2,9 @@
 
 ![](/pictures/mapping1.png)
 
+![](/pictures/mapping2.png)
+
+![](/pictures/mapping3.png)
 
 
 ```
