@@ -1,5 +1,9 @@
 # Map-My-World
 
+![](/pictures/mapping part1.png)
+
+
+
 ```
 roslaunch my_robot world.launch
 ```
